@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "PEANUX_ggj2020",
+"dataUrl": "v0.22_web.data.unityweb",
+"wasmCodeUrl": "v0.22_web.wasm.code.unityweb",
+"wasmFrameworkUrl": "v0.22_web.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
